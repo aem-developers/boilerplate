@@ -1,5 +1,5 @@
 {
   "project": "Boilerplate",
   "plugins": [],
-  "host:" "prod.host.com"
+  "host": "prod.host.com"
 }
